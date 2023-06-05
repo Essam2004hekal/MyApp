@@ -12,7 +12,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/navigation';
 
 
-import pdf from './CV/_Essam_Hekal___Resume_30-05-2023-01-00-34.pdf'
+import pdf from './CV/_Essam_Hekal___Resume_05-06-2023-15-26-23.pdf'
 import banerr  from './img/web-development.png'
 import about from './img/about-image.jpg'
 import proj from './img/portfolio.png'
