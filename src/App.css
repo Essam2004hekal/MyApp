@@ -114,6 +114,10 @@ Projects
     width: 300px;
     align-items: center;
   }
+  
+  #responsive-navbar-nav {
+    margin-left: -100px;
+  }
 
   #nav-link #link {
     margin: 10px;
